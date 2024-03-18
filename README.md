@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Homilia Diária: Ninguém jamais viu a Deus
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo de aproximadamente 5 minutos apresenta a homilía diária do dia 15/03/2024, proposta pelo Pe. Paulo Ricardo em seu canal do YouTube: https://www.youtube.com/watch?v=N-VzYvbeIQM. A homilia em questão reflete sobre o evangelho de João, capítulo 7, versículos de 1 a 2; versículo 10 e versículos de 25 a 30.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Utilização do YouTube para seleção da homilia diária;
+- Serviço SaveFrom.net para extração do áudio da homilia;
+- IA Generativa D-ID para geração de avatar virtual a partir do áudio extraído da homilia;
+- Ferramenta Clipchamp para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, busquei no canal do Pe. Paulo Ricardo uma homília breve, com menos de 5 minutos. Após seleção, utilizei o link da homilia para extrair o áudio na ferramenta SaveFrom.net, no formato mp3. Com o áudio extraído, foi criado um avatar virtual no D-ID, preservando a voz natural do Pe. Paulo Ricardo. Por fim, o vídeo foi editado na ferramenta Clipchamp, para realização de cortes específicos (início e fim), aplicação de filtro e de efeitos como fade in e fade out.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo apresenta uma reflexão sobre o evangelho de João (capítulo 7,1-2.10.25-30), o qual diz que ninguém jamais viu a Deus a não ser Jesus Cristo. No entanto, todos levamos no coração, mesmo sem sabê-lo, um desejo ardentíssimo de contemplar um dia a face daquele que nos trouxe à existência. Foi em Cristo que o Pai quis fazer-se visível e preparar-nos, pela fé, para o encontro definitivo consigo na glória do Céu; por isso, para que o nosso desejo de o ver se cumpra, precisamos crer naquele que Ele enviou e ao qual deu a conhecer toda a sua intimidade, todos os seus segredos.
+Link de acesso ao vídeo: https://1drv.ms/v/s!ApFNm4OqIGdUig1Hv5L4Y0rmGnnI
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi uma experiência transformadora poder criar um avatar virtual com o uso de IA. O resultado final foi muito satisfatório e teria sido perfeito se a IA tivesse traçado o sinal da cruz no início e no fim do vídeo, já que todos os cristãos católicos (romanos e ordotoxos) o fazem ao iniciar e finalizar uma oração, professando a sua fé na Santíssima Trindade.
